@@ -1,1 +1,2 @@
-Dropbox中的同步repository，整个repository会同步到lmq@9.cn的dropbox中。目前还不知道dropbox下载回来的repository能否作为备份导入到本地的repository中。
+Dropbox中的同步repository，整个repository会同步到lmq@9.cn的dropbox中。
+目前还不知道dropbox下载回来的repository能否作为备份导入到本地的repository中。
